@@ -1,0 +1,4 @@
+scrabbleX
+=========
+
+scrabble pascal CLI
